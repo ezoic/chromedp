@@ -12,7 +12,7 @@ import (
 	"sync"
 	"syscall"
 
-	"github.com/chromedp/chromedp/client"
+	"github.com/ezoic/chromedp/client"
 )
 
 const (
