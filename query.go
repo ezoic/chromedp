@@ -13,10 +13,10 @@ import (
 
 	"github.com/disintegration/imaging"
 
-	"github.com/chromedp/cdproto/cdp"
-	"github.com/chromedp/cdproto/css"
-	"github.com/chromedp/cdproto/dom"
-	"github.com/chromedp/cdproto/page"
+	"github.com/ezoic/cdproto/cdp"
+	"github.com/ezoic/cdproto/css"
+	"github.com/ezoic/cdproto/dom"
+	"github.com/ezoic/cdproto/page"
 )
 
 // Nodes retrieves the document nodes matching the selector.

@@ -10,9 +10,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/chromedp/cdproto/cdp"
-	"github.com/chromedp/cdproto/css"
-	"github.com/chromedp/cdproto/dom"
+	"github.com/ezoic/cdproto/cdp"
+	"github.com/ezoic/cdproto/css"
+	"github.com/ezoic/cdproto/dom"
 
 	"github.com/ezoic/chromedp/kb"
 )

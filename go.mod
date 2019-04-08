@@ -1,7 +1,7 @@
 module github.com/ezoic/chromedp
 
 require (
-	github.com/chromedp/cdproto v0.0.0-20180713053126-e314dc107013
+	github.com/ezoic/cdproto v0.0.0-20180713053126-e314dc107013
 	github.com/disintegration/imaging v1.4.2
 	github.com/gorilla/websocket v1.2.0
 	github.com/knq/sysutil v0.0.0-20180306023629-0218e141a794
